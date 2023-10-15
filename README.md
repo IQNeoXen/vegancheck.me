@@ -1,7 +1,7 @@
 <div align="center">
 <img width="128px" src="https://user-images.githubusercontent.com/4144601/233675806-32769506-f311-416b-80f4-2e8aff0a85a9.svg" alt="VeganCheck Logo">
 
-# VeganCheck.me
+# VeganCheck.me TEST ENV
 
 Check if a product is vegan or not with <a href="https://vegancheck.me"><strong>» VeganCheck.me</strong></a>
 
